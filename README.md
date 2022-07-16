@@ -1,4 +1,4 @@
-Hey! I am Siddharth, trying my hands on Computer vision and Deep learning. Will eventually do UPSC so yeah 
+Hey! I am Siddharth, trying my hands on Computer vision and Deep learning. Will eventually do UPSC so yeah have a good day. I hope it rains, what do you say?
 
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/siddharth_banga/)
