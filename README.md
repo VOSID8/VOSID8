@@ -1,4 +1,4 @@
-Hey! I am Siddharth, trying my hands on Computer vision and Deep learning. Will eventually do UPSC so yeah have a good day. I hope it rains, what do you say?
+Hey! I am Siddharth, an UPSC aspirant doing tech. Common no?
 
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/siddharth_banga/)
@@ -7,7 +7,21 @@ Hey! I am Siddharth, trying my hands on Computer vision and Deep learning. Will 
 
 TECH STACK
 
-me ni btaunga
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"/>
+<a ><img src="https://raw.githubusercontent.com/OlegIlyenko/scala-icon/master/scala-icon.png" width="40" height="40"/>
+<a ><img src="https://raw.githubusercontent.com/OlegIlyenko/scala-icon/master/play-icon.png" width="40" height="40"/>
+<br/>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original.svg" width="40" height="40"/>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<a ><img src="https://warehouse-camo.ingress.cmh1.psfhosted.org/7bc42058d2d94edfcc0533b1566dabea85076a76/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f707974686f6e2d70696c6c6f772f70696c6c6f772d6c6f676f2f6d61696e2f70696c6c6f772d6c6f676f2d323438783235302e706e67" width="40" height="40"/>
+<a ><img src="https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png" width="40" height="40"/>
 
 OTHERS 
 
