@@ -7,19 +7,21 @@ Hey! I am Siddharth and I have no idea what am I doing
 
 TECH STACK
 
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"/>
-<a ><img src="https://raw.githubusercontent.com/OlegIlyenko/scala-icon/master/scala-icon.png" width="40" height="40"/>
-<a ><img src="https://raw.githubusercontent.com/OlegIlyenko/scala-icon/master/play-icon.png" width="40" height="40"/>
+<a ><img src="https://www.svgrepo.com/show/452228/html-5.svg" width="40" height="40"/></a>
+<a><img src="https://www.svgrepo.com/show/452045/js.svg" width="40" height="40"/></a>
+<a><img src="https://www.svgrepo.com/show/353498/bootstrap.svg" width="40" height="40"/></a>
+<a><img src="https://www.svgrepo.com/show/452242/jquery.svg" width="40" height="40"/>
+<a ><img src="https://www.svgrepo.com/show/354313/scala.svg" width="40" height="40"/>
+<a ><img src="https://avatars.githubusercontent.com/u/5809764?s=200&v=4" width="40" height="40"/>
+<a ><img src="https://banner2.cleanpng.com/20180816/fya/kisspng-apache-spark-hadoop-yarn-big-data-apache-hadoop-ap-data-science-ermlab-software-5b7647aebd6c85.9047258115344782547759.jpg" width="40" height="40"/>
+<a ><img src="https://www.svgrepo.com/show/354139/opencv.svg" width="40" height="40"/>
 <br/>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" width="40" height="40"/>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<a ><img src="https://www.svgrepo.com/show/373484/c3.svg" width="40" height="40"/></a>
+<a ><img src="https://www.svgrepo.com/show/353614/c-plusplus.svg" width="40" height="40"/></a>
+<a ><img src="https://www.svgrepo.com/show/452091/python.svg" width="40" height="40"/>
+<a ><img src="https://www.svgrepo.com/show/354127/numpy.svg" width="40" height="40"/>
+<a ><img src="https://www.svgrepo.com/show/439233/mysql.svg" width="40" height="40"/>
+<a ><img src="https://pbs.twimg.com/profile_images/525406577080037377/HqN22PuY_400x400.png" width="40" height="40"/>
 <a ><img src="https://warehouse-camo.ingress.cmh1.psfhosted.org/7bc42058d2d94edfcc0533b1566dabea85076a76/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f707974686f6e2d70696c6c6f772f70696c6c6f772d6c6f676f2f6d61696e2f70696c6c6f772d6c6f676f2d323438783235302e706e67" width="40" height="40"/>
 <a ><img src="https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png" width="40" height="40"/>
 
