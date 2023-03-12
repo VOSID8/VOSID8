@@ -8,7 +8,7 @@ Hey! I am Siddharth and I have no idea what am I doing
 TECH STACK
 
 <a ><img src="https://www.svgrepo.com/show/452228/html-5.svg" width="40" height="40"/></a>
-<a><img src="https://www.svgrepo.com/svg/452185/css-3" width="40" height="40"/></a>
+<a><img src="https://www.svgrepo.com/show/373535/css.svg" width="40" height="40"/></a>
 <a><img src="https://www.svgrepo.com/show/353498/bootstrap.svg" width="40" height="40"/></a>
 <a><img src="https://www.svgrepo.com/show/452242/jquery.svg" width="40" height="40"/>
 <a ><img src="https://www.svgrepo.com/show/354313/scala.svg" width="40" height="40"/>
