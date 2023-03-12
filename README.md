@@ -8,7 +8,7 @@ Hey! I am Siddharth and I have no idea what am I doing
 TECH STACK
 
 <a ><img src="https://www.svgrepo.com/show/452228/html-5.svg" width="40" height="40"/></a>
-<a><img src="https://www.svgrepo.com/show/452045/css-3.svg" width="40" height="40"/></a>
+<a><img src="https://www.svgrepo.com/show/452045/css.svg" width="40" height="40"/></a>
 <a><img src="https://www.svgrepo.com/show/353498/bootstrap.svg" width="40" height="40"/></a>
 <a><img src="https://www.svgrepo.com/show/452242/jquery.svg" width="40" height="40"/>
 <a ><img src="https://www.svgrepo.com/show/354313/scala.svg" width="40" height="40"/>
@@ -24,7 +24,7 @@ TECH STACK
 <a ><img src="https://pbs.twimg.com/profile_images/525406577080037377/HqN22PuY_400x400.png" width="40" height="40"/>
 <a ><img src="https://warehouse-camo.ingress.cmh1.psfhosted.org/7bc42058d2d94edfcc0533b1566dabea85076a76/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f707974686f6e2d70696c6c6f772f70696c6c6f772d6c6f676f2f6d61696e2f70696c6c6f772d6c6f676f2d323438783235302e706e67" width="40" height="40"/>
 <a ><img src="https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png" width="40" height="40"/>
-<a ><img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/apache_kafka_icon_138937.png" width="40" height="40"/>
+<a ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvp_8a0CJmm-8r5LXy5dOiCYB8wsGne5KqxDcxhjUt4QxHqLjG1ee0_GFZhZyJg7FSdUs&usqp=CAU" width="40" height="40"/>
 
 
 OTHERS 
