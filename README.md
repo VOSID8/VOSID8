@@ -15,6 +15,7 @@ TECH STACK
 <a ><img src="https://avatars.githubusercontent.com/u/5809764?s=200&v=4" width="40" height="40"/>
 <a ><img src="https://banner2.cleanpng.com/20180816/fya/kisspng-apache-spark-hadoop-yarn-big-data-apache-hadoop-ap-data-science-ermlab-software-5b7647aebd6c85.9047258115344782547759.jpg" width="40" height="40"/>
 <a ><img src="https://www.svgrepo.com/show/354139/opencv.svg" width="40" height="40"/>
+<a ><img src="https://logowik.com/content/uploads/images/hadoop7135.jpg" width="40" height="40"/>
 <br/>
 <a ><img src="https://www.svgrepo.com/show/373484/c3.svg" width="40" height="40"/></a>
 <a ><img src="https://www.svgrepo.com/show/353614/c-plusplus.svg" width="40" height="40"/></a>
