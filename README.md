@@ -24,7 +24,7 @@ TECH STACK
 <a ><img src="https://www.svgrepo.com/show/439233/mysql.svg" width="40" height="40"/>
 <a ><img src="https://pbs.twimg.com/profile_images/525406577080037377/HqN22PuY_400x400.png" width="40" height="40"/>
 <a ><img src="https://miro.medium.com/v2/resize:fit:500/1*v3AGyLVTLMF_D1DG9UWz1w.png" width="40" height="40"/>
-<a ><img src="https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png" width="40" height="40"/>
+<a ><img src="https://i.ytimg.com/an/ziq7FUKpCS8/16381790721617529386_mq.jpg?v=62cce788" width="40" height="40"/>
 <a ><img src="https://www.logolynx.com/images/logolynx/3f/3f1504ee77702612650e8b7cce5d22a1.jpeg" width="40" height="40"/>
 
 
