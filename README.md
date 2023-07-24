@@ -23,7 +23,7 @@ TECH STACK
 <a ><img src="https://www.svgrepo.com/show/354127/numpy.svg" width="40" height="40"/>
 <a ><img src="https://www.svgrepo.com/show/439233/mysql.svg" width="40" height="40"/>
 <a ><img src="https://pbs.twimg.com/profile_images/525406577080037377/HqN22PuY_400x400.png" width="40" height="40"/>
-<a ><img src="https://warehouse-camo.ingress.cmh1.psfhosted.org/7bc42058d2d94edfcc0533b1566dabea85076a76/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f707974686f6e2d70696c6c6f772f70696c6c6f772d6c6f676f2f6d61696e2f70696c6c6f772d6c6f676f2d323438783235302e706e67" width="40" height="40"/>
+<a ><img src="https://miro.medium.com/v2/resize:fit:500/1*v3AGyLVTLMF_D1DG9UWz1w.png" width="40" height="40"/>
 <a ><img src="https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png" width="40" height="40"/>
 <a ><img src="https://www.logolynx.com/images/logolynx/3f/3f1504ee77702612650e8b7cce5d22a1.jpeg" width="40" height="40"/>
 
@@ -31,6 +31,9 @@ TECH STACK
 OTHERS 
 
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VOSID8&show_icons=true&locale=en&layout=compact" alt="VOSID8" /></p>
 
 ![Hello](https://user-images.githubusercontent.com/91724657/199535159-24baabdf-2957-4a11-b5b9-8372e65d871f.png)
 
