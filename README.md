@@ -1,6 +1,6 @@
-Hey! I am Siddharth and I have no idea what am I doing
+Hey! I am Siddharth and I have no idea what am I doing <br>
 
-Ex-SWE Intern@CNH Industrial Intern and Code4GovTech'23 selected
+Ex-SWE Intern@CNH Industrial | Code4GovTech'23 selected <br>
 Scala Env. | Python Env. | Data Engineering | Backend 
 
 
