@@ -1,7 +1,7 @@
 Hey! I am Siddharth, Computer Engineering Student and Tech-savvy Social Advocate<br>
 
 Ex-SWE Intern@CNH Industrial | Code4GovTech'23 selected <br>
-Scala Env. | Python Env. | Data Engineering | Backend 
+Scala | Python | Functional Programming | Data Engineering | Backend 
 
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/siddharth_banga/)
