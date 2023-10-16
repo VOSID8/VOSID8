@@ -1,4 +1,4 @@
-Hey! I am Siddharth and I have no idea what am I doing <br>
+Hey! I am Siddharth, Computer Engineering Student and Tech-savvy Social Advocate<br>
 
 Ex-SWE Intern@CNH Industrial | Code4GovTech'23 selected <br>
 Scala Env. | Python Env. | Data Engineering | Backend 
