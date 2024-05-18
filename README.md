@@ -1,6 +1,6 @@
-Hey! I am Siddharth, Computer Engineering Student and a Social Advocate<br>
+Hey! I am Siddharth, CS Undergrad student and a Social Advocate<br>
 
-Ex-SWE Intern@CNH Industrial | Code4GovTech'23 selected <br>
+Ex-SWE Intern@CNHI | GSoC'24 | Code4GovTech'23 selected <br>
 Scala | Python | FP | Data Engineering | Backend 
 
 
