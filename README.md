@@ -35,13 +35,12 @@ OTHERS
 
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VOSID8&show_icons=true&locale=en&layout=compact" alt="VOSID8" /></p>
-
 ![Hello](https://user-images.githubusercontent.com/91724657/199535159-24baabdf-2957-4a11-b5b9-8372e65d871f.png)
 
 
 <!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VOSID8&show_icons=true&locale=en&layout=compact" alt="VOSID8" /></p>
+
 **VOSID8/VOSID8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
