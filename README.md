@@ -1,6 +1,6 @@
 Hey! I am Siddharth, CS Undergrad student and a Social Advocate<br>
 
-Ex-SWE Intern@CNHI | GSoC'24 | Code4GovTech'23 selected <br>
+Ex-SWE Intern@CNH'23 & @Barclays'24 | GSoC'24 | Code4GovTech'23 selected <br>
 Scala | Python | FP | Data Engineering | Backend 
 
 
